@@ -1,2 +1,2 @@
-# mortgage-calculator
-A simple calculator which gives the monthly installments of a variable-rate Euribor mortgage.
+# Mortgage Calculator
+A simple calculator which gives the monthly installments of a variable-rate Euribor mortgage. The user should input the amount still owed to the bank as well as the number of payments left and the spread of the loan. The user then has the option of selecting the type of Euribor rate and to automatically get the current rate of that type. The app will automatically connect to the internet (if possible) and obtain the correct up to date value for the Euribor rate. 
